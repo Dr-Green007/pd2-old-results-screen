@@ -1,0 +1,12 @@
+{
+	"name": "Old Results Screen",
+	"description": "Restores Pre-Death Wish Results Screen",
+	"author": "Dr-Green",
+	"version": "1.0",
+	"hooks": [
+		{
+			"hook_id": "lib/managers/hud/hudstageendscreen",
+			"script_path": "mod.lua"
+		}
+	]
+}
